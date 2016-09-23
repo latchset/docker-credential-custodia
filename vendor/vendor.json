@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "wCo8/3tScErd6gYSKGa/2+WCHZo=",
+			"path": "github.com/docker/docker-credential-helpers/credentials",
+			"revision": "f72c04f1d8e71959a6d103f808c50ccbad79b9fd",
+			"revisionTime": "2016-09-06T16:43:16Z"
+		}
+	],
+	"rootPath": "github.com/latchset/docker-credential-custodia"
+}
